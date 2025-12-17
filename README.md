@@ -1,5 +1,4 @@
-# typescript-study
-## TypeScript 공부 기록을 위한 공간
+# TypeScript 공부 기록을 위한 공간
 
 ## 목표
 타입스크립트 기본 문법 익히기
